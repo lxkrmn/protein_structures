@@ -1,0 +1,5 @@
+[data]
+
+Notes:
+- The folder [raw] contains the initial dataset prior to pre-processing.
+- The `/data/` directory directly holds the processed dataset used in model development (training, validation, testing)

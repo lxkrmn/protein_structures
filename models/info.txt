@@ -1,0 +1,11 @@
+[models]
+
+DO NOT EDIT `main_backup.ipynb`
+
+The [models] directory contains the different models compared in protein structure analysis, ranging from:
+- PCA
+- t-SNE
+- UMAP
+- Kernel PCA
+
+The models are developed in Python notebook environments.
